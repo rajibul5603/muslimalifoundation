@@ -1541,6 +1541,18 @@ section {
   font-size: 15px;
 }
 
+
+@media (max-width: 575px) {
+  .faq .faq-item h4 {
+    font-size: 15px;
+    line-height: 10px;
+    font-weight: 700;
+    margin: 0 0 10px 40px;
+    font-family: "Poppins", sans-serif;
+  }
+  
+}
+
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
